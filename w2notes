@@ -1,0 +1,9 @@
+vad vi ska bygga 
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤&&¤¤¤¤¤¤¤
+f.r att komma in på huvidsida bygga app så när man går in på local s skickas man till en html o det finns en kaka o om det inte finns skickas man till en annan html 
+
+kontrolera tenta att man låser upp public 
+/public + script namn + /public  steg 1 
+ setg 2 
+lägg till post route 
+kontroll att värdet i textrutan på form finns o är längre än 2 om sna tsätt  kakan nick till med skickat värde annars  digierar om använda till GET på / 
